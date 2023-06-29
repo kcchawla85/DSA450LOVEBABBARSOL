@@ -1,4 +1,4 @@
-# Love Babbar 450 DSA Sheet Solutions (LEETCODE)
+# Love Babbar 450 DSA Sheet Solutions (CODESTUDIO)
 This repository contains the solutions to the Love Babbar 450 DSA (Data Structures and Algorithms) sheet. The Love Babbar 450 DSA sheet is a popular collection of 450 DSA questions that are frequently asked in coding interviews. The sheet covers a wide range of topics and is widely used by programmers to prepare for coding interviews.
 
 ## How to Use this Repository
